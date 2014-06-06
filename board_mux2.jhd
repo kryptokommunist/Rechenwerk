@@ -1,0 +1,3 @@
+MODULE board_mux2
+	SUBMODULE mux2
+		INSTANCE Multiplexer

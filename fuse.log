@@ -1,0 +1,38 @@
+Running: /vol/echip/Xilinx_14.6/14.6/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4_ram4_sch_tb_isim_beh.exe -prj /vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4_ram4_sch_tb_beh.prj work.ram4_ram4_sch_tb 
+ISim P.68d (signature 0xfbc00daa)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/mux2.vhf" into library work
+Parsing VHDL file "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/reg4.vhf" into library work
+Parsing VHDL file "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/mux4.vhf" into library work
+Parsing VHDL file "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/adrdec2.vhf" into library work
+Parsing VHDL file "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram2.vhf" into library work
+Parsing VHDL file "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4.vhf" into library work
+Parsing VHDL file "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 114068 KB
+Fuse CPU Usage: 1150 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture fdce_v of entity FDCE [\FDCE('0')\]
+Compiling architecture behavioral of entity reg4_MUSER_ram4 [reg4_muser_ram4_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture behavioral of entity adrdec2_MUSER_ram4 [adrdec2_muser_ram4_default]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture behavioral of entity mux2_MUSER_ram4 [mux2_muser_ram4_default]
+Compiling architecture behavioral of entity mux4_MUSER_ram4 [mux4_muser_ram4_default]
+Compiling architecture behavioral of entity ram2_MUSER_ram4 [ram2_muser_ram4_default]
+Compiling architecture behavioral of entity ram4 [ram4_default]
+Compiling architecture behavioral of entity ram4_ram4_sch_tb
+Time Resolution for simulation is 1ps.
+Waiting for 11 sub-compilation(s) to finish...
+Compiled 25 VHDL Units
+Built simulation executable /vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4_ram4_sch_tb_isim_beh.exe
+Fuse Memory Usage: 424372 KB
+Fuse CPU Usage: 1270 ms
+GCC CPU Usage: 2400 ms

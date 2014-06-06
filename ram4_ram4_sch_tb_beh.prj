@@ -1,0 +1,7 @@
+vhdl work "mux2.vhf"
+vhdl work "reg4.vhf"
+vhdl work "mux4.vhf"
+vhdl work "adrdec2.vhf"
+vhdl work "ram2.vhf"
+vhdl work "ram4.vhf"
+vhdl work "ram4_tb.vhd"

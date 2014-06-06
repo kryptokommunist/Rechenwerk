@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4_ram4_sch_tb_isim_beh.exe" -prj "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4_ram4_sch_tb_beh.prj" "work.ram4_ram4_sch_tb" 

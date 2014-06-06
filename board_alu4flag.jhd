@@ -1,0 +1,5 @@
+MODULE board_alu4flag
+	SUBMODULE rotary_switch
+		INSTANCE XLXI_12
+	SUBMODULE alu4flag
+		INSTANCE XLXI_15

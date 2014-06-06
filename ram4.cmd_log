@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4.xst" -ofn "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4.syr" 
+xst -intstyle ise -ifn "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4.xst" -ofn "/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4.syr" 

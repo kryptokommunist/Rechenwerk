@@ -1,0 +1,5 @@
+sch2hdl,-intstyle,ise,-family,spartan3e,-flat,-suppress,-vhdl,/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/reg4.vhf,-w,/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/reg4.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-flat,-suppress,-vhdl,/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram2.vhf,-w,/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram2.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-flat,-suppress,-vhdl,/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4.vhf,-w,/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-flat,-suppress,-vhdl,/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram2.vhf,-w,/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram2.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-flat,-suppress,-vhdl,/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4.vhf,-w,/vol/fob-vol6/mi13/dingmarc/workspace/dsprak/rw4/ram4.sch

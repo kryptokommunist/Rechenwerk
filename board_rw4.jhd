@@ -1,0 +1,3 @@
+MODULE board_rw4
+	SUBMODULE rotary_switch
+		INSTANCE XLXI_12

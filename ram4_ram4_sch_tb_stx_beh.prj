@@ -1,0 +1,7 @@
+vhdl isim_temp "mux2.vhf"
+vhdl isim_temp "reg4.vhf"
+vhdl isim_temp "mux4.vhf"
+vhdl isim_temp "adrdec2.vhf"
+vhdl isim_temp "ram2.vhf"
+vhdl isim_temp "ram4.vhf"
+vhdl isim_temp "ram4_tb.vhd"
